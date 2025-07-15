@@ -4,5 +4,6 @@ lst.append('book')
 lst.append(45)
 lst.append(23.5)
 lst.append('123')
+print(len(lst))
 print(lst)
 
