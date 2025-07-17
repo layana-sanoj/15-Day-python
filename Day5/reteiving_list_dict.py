@@ -1,3 +1,4 @@
+#retriving list from a dictionary
 star={'one':1, 'two': 2, 'three': 3,'four':4, 'five': 5}
 print(list(star))
 print(list(star.keys()))
